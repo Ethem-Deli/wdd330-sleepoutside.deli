@@ -1,0 +1,17 @@
+Course Summary
+
+Subject: Web Design and Development
+Department: Computer Science and Engineering
+Credits: 3
+Prerequisite: WDD 231
+
+Description
+This course will continue with the topics presented in WDD 231 Web Front-end Development I: Building websites with HTML, CSS, and JavaScript. This course will have a stronger emphasis on JavaScript development and mobile design as students create mobile web applications.
+
+Learning Outcomes
+Become more efficient at applying your innate curiosity and creativity.
+Become more dexterous at exploring your environment.
+Become a person who enjoys helping and learning from others.
+Use a divide and conquer approach to design solutions for programming problems.
+Finding and trouble shooting bugs you and others will have in the code you write.
+Developing and debugging HTML, CSS, and JavaScript programs that use medium complexity web technologies.

@@ -11,3 +11,6 @@ Final Steps
 Run 'npm run build' in the terminal to generate the production build.
 
 Run 'npm run preview'  in the terminal to preview the production build locally
+
+netlify deployed site for individual
+https://682c9b4c513677b405940a15--musical-paprenjak-afb5e0.netlify.app/
