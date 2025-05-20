@@ -285,3 +285,11 @@ footer {
   font-size: medium;
   user-select: none;
 }
+.discount-badge {
+  background-color: red;
+  color: white;
+  padding: 0.2em;
+  position: absolute;
+  top: 0;
+  right: 0;
+}

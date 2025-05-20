@@ -51,3 +51,9 @@ export default class ProductDetails {
         addToCartButton.dataset.id = this.product.Id;
     }
 }
+//Store cart items as an array in localStorage.
+function addToCart(product) {
+    let cart = JSON.parse(localStorage.getItem('so-cart')) || [];
+    cart.push(product);
+    localStorage.setItem('so-cart', JSON.stringify(cart));
+}
